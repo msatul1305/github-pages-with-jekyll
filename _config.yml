@@ -3,7 +3,7 @@ author: msatul1305
 email: ms.atul1303@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Hello Friends Chai Pilo
-
+theme: minima
 # social links
 twitter_username: ms_atul
 github_username:  msatul1305
